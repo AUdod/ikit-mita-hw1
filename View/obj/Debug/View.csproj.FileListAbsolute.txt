@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\ikit-mita-hw1\View\bin\Debug\View.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\View\bin\Debug\View.exe
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\View\bin\Debug\View.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\View\obj\Debug\View.exe
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\View\obj\Debug\View.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\View\bin\Debug\Domain.dll
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\View\bin\Debug\Domain.pdb
+C:\Users\User\Source\Repos\ikit-mita-hw1\View\bin\Debug\View.exe.config
+C:\Users\User\Source\Repos\ikit-mita-hw1\View\obj\Debug\View.exe
+C:\Users\User\Source\Repos\ikit-mita-hw1\View\obj\Debug\View.pdb

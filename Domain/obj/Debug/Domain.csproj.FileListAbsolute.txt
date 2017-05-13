@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\Domain\bin\Debug\Domain.dll
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\Domain\bin\Debug\Domain.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\Domain\obj\Debug\Domain.dll
+C:\Users\User\documents\visual studio 2015\Projects\ikit-mita-hw1\Domain\obj\Debug\Domain.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ikit-mita-hw1\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

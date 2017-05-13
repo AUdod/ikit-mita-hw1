@@ -65,7 +65,7 @@ namespace Domain
 
         public Cat()
         {
-            Age = DateTime.Now.AddMonths(-2);
+            Age = DateTime.Now.AddMonths(-3);
         }
     }
     

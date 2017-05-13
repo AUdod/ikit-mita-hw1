@@ -26,7 +26,7 @@ namespace View
         {
             Cat cat = new Cat();
 
-            Console.Write("Введите имя кота ");
+            Console.Write("Введите имя кота: ");
             cat.Name = Console.ReadLine();
 
             Console.Write("Поздравляем вас с покупкой ");
